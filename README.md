@@ -5,7 +5,7 @@ This project is part of the CS1050 Computer Architecture module, where we develo
 ## Features
 
 The nanoprocessor is capable of executing the following four instructions:
-1. **Move** 
+1. **Move**
 2. **Add**
 3. **Jump**
 4. **Negate**
@@ -34,13 +34,12 @@ This repository contains the VHDL code for the nanoprocessor. To run the project
 
 ## Contributing
 
-1. S.M.A.N.A.Manchanayake - 210373G,
-Department of Computer Science & Engineering,
-Faculty of Engineering,
-University of Moratuwa.
+1. **S.M.A.N.A. Manchanayake** - 210373G  
+   Department of Computer Science & Engineering  
+   Faculty of Engineering  
+   University of Moratuwa
 
-2. K.C.K.Manawathilake - 210372D,
-Department of Computer Science & Engineering,
-Faculty of Engineering,
-University of Moratuwa.
-
+2. **K.C.K. Manawathilake** - 210372D  
+   Department of Computer Science & Engineering  
+   Faculty of Engineering  
+   University of Moratuwa
