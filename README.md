@@ -34,12 +34,12 @@ This repository contains the VHDL code for the nanoprocessor. To run the project
 
 ## Contributing
 
-S.M.A.N.A.Manchanayake - 210373G
+1. S.M.A.N.A.Manchanayake - 210373G,
 Department of Computer Science & Engineering,
 Faculty of Engineering,
 University of Moratuwa.
 
-K.C.K.Manawathilake - 210372D
+2. K.C.K.Manawathilake - 210372D,
 Department of Computer Science & Engineering,
 Faculty of Engineering,
 University of Moratuwa.
