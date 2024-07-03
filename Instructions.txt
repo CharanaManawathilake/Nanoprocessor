@@ -1,0 +1,7 @@
+LED 0-3 denotes the number in the binary form.
+All four Seven segments display the same number output.
+
+Press the btnC to reset the program.
+
+This program adds numbers from 3 to 1 and will remain in the last instruction of the ROM.
+The Program counter increases every 50000000 Clk cycles.
